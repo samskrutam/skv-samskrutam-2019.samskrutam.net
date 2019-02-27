@@ -1,0 +1,10 @@
+site_name: SKV-Samskrutam-2019
+
+nav:
+    - Home: index.md
+    - Classes: ./classes/index.md
+    - Resources: ./reference.md
+
+theme: material
+
+use_directory_urls: true
